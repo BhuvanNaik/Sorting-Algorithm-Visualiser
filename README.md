@@ -8,11 +8,6 @@ The visualizer uses **color-coded steps** to enhance understanding:
 - **Red**: Incorrect position, to be moved  
 - **Green**: Correct position
 
-  
-## Live Demo
-
-Try the Sorting Visualizer live at: [Sorting Visualizer](https://musadiqpasha.github.io/Sorting-Visualizer/)
-
 ## Features
 
 - Visualize popular sorting algorithms:
@@ -21,9 +16,6 @@ Try the Sorting Visualizer live at: [Sorting Visualizer](https://musadiqpasha.gi
   - Insertion Sort
   - Merge Sort
   - Quick Sort
-  - Heap Sort
-  - Counting Sort
-  - Tim Sort
     
 - Generate random arrays of different sizes.
 - Input custom arrays for personalized testing.
@@ -37,18 +29,12 @@ Try the Sorting Visualizer live at: [Sorting Visualizer](https://musadiqpasha.gi
 - **CSS**: Styling and layout.
 - **JavaScript**: Core functionality, algorithms, and visualizations.
 
-## Demo
-
-<img src='https://github.com/MusadiqPasha/Sorting-Visualizer/blob/main/demo/fast%20demo.gif'>
-
-<img src='https://github.com/MusadiqPasha/Sorting-Visualizer/blob/main/demo/slow%20demo.gif'>
-
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kmusadiqpasha/sorting-visualizer.git
-2. cd sorting-visualizer
+   git clone https://github.com/kmusadiqpasha/Sorting-Algorithm-Visualiser.git
+2. cd Sorting-Algorithm-Visualizer
 3. Open index.html in your web browser to launch the application.
 
 
