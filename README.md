@@ -33,7 +33,7 @@ The visualizer uses **color-coded steps** to enhance understanding:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kmusadiqpasha/Sorting-Algorithm-Visualiser.git
+   git clone https://github.com/BhuvanNaik/Sorting-Algorithm-Visualiser.git
 2. cd Sorting-Algorithm-Visualizer
 3. Open index.html in your web browser to launch the application.
 
